@@ -30,3 +30,4 @@ rm -rf */.git
 git add *
 git commit -m "adding data to repository"
 git push
+
